@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 600 200">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2dd4bf" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+  </defs>
+  <g fill="url(#logoGradient)">
+    <path d="M80,50 L100,50 L130,150 L110,150 L105,130 L75,130 L70,150 L50,150 L80,50 Z M90,70 L80,110 L100,110 L90,70 Z" />
+    <path d="M140,50 L160,50 L160,130 L200,130 L200,150 L140,150 L140,50 Z" />
+    <path d="M210,50 L230,50 L230,90 L260,50 L285,50 L250,95 L290,150 L265,150 L235,105 L230,110 L230,150 L210,150 L210,50 Z" />
+    <path d="M290,50 L340,50 C350,50 360,55 365,60 C370,65 375,75 375,85 C375,95 370,105 365,110 C360,115 350,120 340,120 L310,120 L310,150 L290,150 L290,50 Z M310,70 L310,100 L335,100 C340,100 345,95 345,85 C345,75 340,70 335,70 L310,70 Z" />
+    <path d="M380,50 L440,50 C450,50 460,55 465,60 C470,65 475,75 475,85 C475,95 470,105 465,110 C460,115 450,120 440,120 L400,120 L400,150 L380,150 L380,50 Z M400,70 L400,100 L435,100 C440,100 445,95 445,85 C445,75 440,70 435,70 L400,70 Z" />
+    <path d="M480,50 L500,50 L530,110 L530,50 L550,50 L550,150 L530,150 L500,90 L500,150 L480,150 L480,50 Z" />
+    <path d="M30,90 L50,70 L50,110 L30,90 Z" />
+  </g>
+  <text x="300" y="180" font-family="Arial" font-size="24" text-anchor="middle" fill="#666">by ReviewTap</text>
+</svg>
